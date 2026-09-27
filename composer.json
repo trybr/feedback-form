@@ -1,0 +1,12 @@
+{
+    "name": "test/feedback-form",
+    "description": "Тестовое задание: форма обратной связи",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
