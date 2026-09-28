@@ -34,7 +34,7 @@ $oldTopic = $_POST["topic"] ?? "";
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-title" content="TestForm" />
 
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/style.css?v=1">
 </head>
 <body>
 
